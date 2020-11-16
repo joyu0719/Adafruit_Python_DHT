@@ -28,8 +28,8 @@ import sys
 import http.client as http
 Import urllib
 import json
-deviceId = "D2WKWKcr “
-deviceKey = “LcWuC5DykgbM5fqS“ 
+deviceId = "D0Z0SMjQ"
+deviceKey = "GSVSKal55IDJepgv"
 def post_to_mcs(payload): 
 	headers = {"Content-type": "application/json", "deviceKey": deviceKey} 
 	not_connected = 1 
